@@ -1,0 +1,1 @@
+# Shows some examples of Bash scripting
